@@ -52,9 +52,8 @@ The dataset is publicly available on **Kaggle**:
 1. Clone this repository:
 
    ```bash
-  git clone https://github.com/Faizan-Ali-Memon/HandSignClassifier.git
-  cd HandSignClassifier
-
+    git clone https://github.com/Faizan-Ali-Memon/HandSignClassifier.git
+    cd HandSignClassifier
    ```
 2. Install dependencies:
 
